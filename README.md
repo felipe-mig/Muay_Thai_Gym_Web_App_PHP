@@ -37,6 +37,7 @@ Wheareas, Staff members and clients can login into the Web App using their usern
    - Session handling of logins
    - $${\color{lightgreen}Encryption/Decryption \space of \space passwords}$$
 
+<br><br>
 
 * 🚫🏗️ No frameworks
 * 🚫🤖 No AI code 
@@ -117,9 +118,7 @@ Wheareas, Staff members and clients can login into the Web App using their usern
    - Password: <i>password</i>
    - Position: <i>member</i>
    - <i>(All clients have the default password set to "password")</i>
-
-
-
+<br>
 ♦️ You may need a local server and import the database to display the website on your browser. 
 
 <br><br><br>
