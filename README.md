@@ -34,7 +34,7 @@ Wheareas, Staff members and clients can login into the Web App using their usern
       - Trainers to access classes they teach, manage clients and create/edit/assign workouts.
       - Admin to manage accounts, passwords and all system features and data. 
    - Session handling of logins
-+ Encryption/Decryption of passwords
+   ! Encryption/Decryption of passwords
 
 
 * 🚫🏗️ No frameworks
