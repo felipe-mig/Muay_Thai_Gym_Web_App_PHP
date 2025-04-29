@@ -78,12 +78,12 @@ Wheareas, Staff members and clients can login into the Web App using their usern
 ![Screenshot13](screenshots/Screenshot13.webp)
 
 ### SQL tables
-![Screenshot14](screenshots/Screenshot15.webp)
+![Screenshot14](screenshots/Screenshot18.webp)
 
 ![Screenshot15](screenshots/Screenshot17.webp)
 
 ### Encrypted passwords
-![Screenshot16](screenshots/Screenshot18.webp)
+![Screenshot16](screenshots/Screenshot15.webp)
 
 ### functions
 ![Screenshot17](screenshots/Screenshot16.webp)
@@ -109,13 +109,13 @@ Wheareas, Staff members and clients can login into the Web App using their usern
    - User: <i>arnold</i>
    - Password: <i>password</i>
    - Position: <i>staff</i>
-   - <i>(All staffs have the default password set to "password")<i>
+   - <i>(All staffs have the default password set to "password")</i>
 
 - <strong>Client e.g.</strong>
    - User: <i>jill</i>
    - Password: <i>password</i>
    - Position: <i>member</i>
-   - <i>(All clients have the default password set to "password")<i>
+   - <i>(All clients have the default password set to "password")</i>
 
 
 
