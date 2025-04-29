@@ -3,7 +3,7 @@
 This is a <strong>Muay Thai Gym Web App</strong> built in PHP with full <strong>CRUD</strong>. Implementing dynamic code for database and page communication, all is done using <strong>PDO</strong>. 
 It has a public and private side for security. The administrator can manage staff members, clients, classes and routines. 
 Wheareas, Staff members and clients can login into the Web App using their username and password (passwords are encrypted and decrypted for enhanced security).
-<br>
+<br><br>
 - <strong>📋Users Features </strong>
    - Timetable
    - Various Gym classes
@@ -42,7 +42,7 @@ Wheareas, Staff members and clients can login into the Web App using their usern
 * 📁 Local content
 
  The website is optimized for a 16" 2560x1600 display with a 16:10 aspect ratio.
-<br>
+<br><br>
  ## 📷 Screenshots
 
 ### index.php
